@@ -5,7 +5,7 @@
 
 # 👩‍💻 "Entusiasta del análisis y la ingeniería de datos, para crear visualizaciones impactantes." 🚀
 
-- 💻 Python | 🛢️ MySQL | ☁️ AWS | 🐳 Docker | 📊 Power BI | 📈 Tableau
+ 💻 Python | 🛢️ MySQL | ☁️ AWS | 🐳 Docker | 📊 Power BI | 📈 Tableau
 
 </div>
 
@@ -17,8 +17,9 @@
 💞️ Busco colaborar en algo nuevo e innovador.
 
 <div align="center">
-📫 [Contáctame](https://www.linkedin.com/in/robruschini/) 
-[Acceso al portal web](https://proyecto-flujos-migratorios-r.onrender.com/)
+📫 [LinkedIn](https://www.linkedin.com/in/robruschini/)
+
+
 
 
 #✨¡Bienvenido/a a mi espacio en GitHub! ✨
