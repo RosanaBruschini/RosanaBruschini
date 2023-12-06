@@ -17,7 +17,8 @@
 💞️ Busco colaborar en algo nuevo e innovador.
 
 <div align="center">
-📫 [LinkedIn](https://www.linkedin.com/in/robruschini/)
+>📫 [LinkedIn](https://www.linkedin.com/in/robruschini/)
+
 
 
 
