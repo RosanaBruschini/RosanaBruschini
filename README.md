@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**RosanaBruschini/RosanaBruschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## 👋 Hola, soy Rosana 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👩‍💻 "Entusiasta del análisis y la ingeniería de datos, para crear visualizaciones impactantes." 🚀
+
+- 💻 Python | 🛢️ MySQL | ☁️ AWS | 🐳 Docker | 📊 Power BI | 📈 Tableau
+
+</div>
+
+
+👀 Tengo interés en la investigación, startups y el mundo de los datos.
+
+🌱 Actualmente sigo aprendiendo sobre Visualización de datos (Power Bi | Tableau).
+
+💞️ Busco colaborar en algo nuevo e innovador.
+
+<div align="center">
+📫 [**Contáctame**](https://www.linkedin.com/in/robruschini/) en LinkedIn
+
+
+#✨¡Bienvenido/a a mi espacio en GitHub! ✨
+</div>
+
+
+
+
+
