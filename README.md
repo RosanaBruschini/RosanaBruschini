@@ -17,7 +17,7 @@
 💞️ Busco colaborar en algo nuevo e innovador.
 
 <div align="center">
->📫 [LinkedIn](https://www.linkedin.com/in/robruschini/)
+
 
 
 
@@ -26,7 +26,7 @@
 #✨¡Bienvenido/a a mi espacio en GitHub! ✨
 </div>
 
-
+>📫 [LinkedIn](https://www.linkedin.com/in/robruschini/)
 
 
 
