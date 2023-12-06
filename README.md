@@ -19,14 +19,13 @@
 <div align="center">
 
 
-
-
-
-
-#✨¡Bienvenido/a a mi espacio en GitHub! ✨
+#✨¡Bienvenidos a mi espacio en GitHub! ✨
 </div>
 
->📫 [LinkedIn](https://www.linkedin.com/in/robruschini/)
+
+
+
+>📫**Contactame**: [LinkedIn](https://www.linkedin.com/in/robruschini/)
 
 
 
